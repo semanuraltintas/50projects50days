@@ -7,17 +7,17 @@ https://50projects50days.com/
 
 
 
-|  **#** 	| **Project** 	| **Repo** 	|
+|  **#** 	| **Project** 	| **Live Demo** 	|
 |:------:	|:-----------:	|:--------:	|
-|  **1** 	|             	|          	|
-|  **2** 	|             	|          	|
-|  **3** 	|             	|          	|
-| **4**  	|             	|          	|
-| **5**  	|             	|          	|
-| **6**  	|             	|          	|
-| **7**  	|             	|          	|
-| **8**  	|             	|          	|
-| **9**  	|             	|          	|
+|  **1** 	|[Expanding Card](https://github.com/semanuraltintas/50projects50days/tree/main/1-expanding-cards)             	|          	|
+|  **2** 	|   [Progress Steps](https://github.com/semanuraltintas/50projects50days/tree/main/2-progress-steps)          	|          	|
+|  **3** 	|    [Rotating Navigation Animation](https://github.com/semanuraltintas/50projects50days/tree/main/3-rotating-navigation-animation)         	|          	|
+| **4**  	| [Hidden Search Widget](https://github.com/semanuraltintas/50projects50days/tree/main/4-hidden-search-widget)            	|          	|
+| **5**  	|    [Blurry Loading](https://github.com/semanuraltintas/50projects50days/tree/main/5-blurry-loading)         	|          	|
+| **6**  	|     [Scroll Animation](https://github.com/semanuraltintas/50projects50days/tree/main/6-scroll-animation)        	|          	|
+| **7**  	|      [Split Landing Page](https://github.com/semanuraltintas/50projects50days/tree/main/7-split-landing-page)       	|          	|
+| **8**  	|   [Form Wave](https://github.com/semanuraltintas/50projects50days/tree/main/8-form-wave)          	|          	|
+| **9**  	|     [Sound Board]()        	|          	|
 | **10** 	|             	|          	|
 | **11** 	|             	|          	|
 | **12** 	|             	|          	|
