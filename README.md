@@ -18,12 +18,12 @@ https://50projects50days.com/
 | **7**  	|      [Split Landing Page](https://github.com/semanuraltintas/50projects50days/tree/main/7-split-landing-page)       	|          	|
 | **8**  	|   [Form Wave](https://github.com/semanuraltintas/50projects50days/tree/main/8-form-wave)          	|          	|
 | **9**  	|     [Sound Board]()        	|          	|
-| **10** 	|             	|          	|
-| **11** 	|             	|          	|
-| **12** 	|             	|          	|
-| **13** 	|             	|          	|
-| **14** 	|             	|          	|
-| **15** 	|             	|          	|
+| **10** 	|   [Jokes]()         	|          	|
+| **11** 	|     [Event Keycodes]()        	|          	|
+| **12** 	|   [FAQ Collapse]()          	|          	|
+| **13** 	|  [Random Choice Picker]()           	|          	|
+| **14** 	|     [Animated Navigation]()        	|          	|
+| **15** 	|  [Incrementing Counter]()           	|          	|
 | **16** 	|             	|          	|
 | **17** 	|             	|          	|
 | **18** 	|             	|          	|
