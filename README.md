@@ -25,16 +25,16 @@ https://50projects50days.com/
 | **14** 	|     [Animated Navigation](https://github.com/semanuraltintas/50projects50days/tree/main/013-random-choice-picker)        	|          	|
 | **15** 	|  [Incrementing Counter](https://github.com/semanuraltintas/50projects50days/tree/main/015-incrementing-counter)           	|          	|
 | **16** 	|    [Drink Water](https://github.com/semanuraltintas/50projects50days/tree/main/016-drink-water)         	|          	|
-| **17** 	|     [Movie App]()        	|          	|
-| **18** 	|     [Background Slider]()       	|          	|
-| **19** 	|      [Theme Clock]()       	|          	|
-| **20** 	|     [Button Ripple Effect]()        	|          	|
-| **21** 	|             	|          	|
-| **22** 	|             	|          	|
-| **23** 	|             	|          	|
-| **24** 	|             	|          	|
-| **25** 	|             	|          	|
-| **26** 	|             	|          	|
+| **17** 	|     [Movie App](https://github.com/semanuraltintas/50projects50days/tree/main/017-movie-app)        	|          	|
+| **18** 	|     [Background Slider](https://github.com/semanuraltintas/50projects50days/tree/main/018-background-slider)       	|          	|
+| **19** 	|      [Theme Clock](https://github.com/semanuraltintas/50projects50days/tree/main/019-theme-clock)       	|          	|
+| **20** 	|     [Button Ripple Effect](https://github.com/semanuraltintas/50projects50days/tree/main/020-button-ripple-effect)        	|          	|
+| **21** 	|    [Drag N Drop]()         	|          	|
+| **22** 	|    [Drawing App]()         	|          	|
+| **23** 	|    [Kinetic Loader]()         	|          	|
+| **24** 	|    [Content Placeholder]()         	|          	|
+| **25** 	|    [Sticky Navbar]()         	|          	|
+| **26** 	|     [Double Vertical Slider]()        	|          	|
 | **27** 	|             	|          	|
 | **28** 	|             	|          	|
 | **29** 	|             	|          	|
